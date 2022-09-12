@@ -1,0 +1,37 @@
+body{
+  background-color: grey;
+  background-size: 50%;
+}
+a h1:hover{
+  background-color: white;
+width: 95px;
+height: 37px;
+border-radius: 25%;
+padding-left: 10px;
+color: red;
+}
+a{
+  color: silver;
+}
+/***********class selector**********/
+.oni{
+  width: 30%;
+  height: 30%;
+  border-radius: 25px;
+}
+.heading{
+  color: silver;
+  padding-bottom: 200px;
+  padding-right: 600px;
+  padding-top: 7
+}
+.heading2{
+  padding-left: 100px;
+  padding-bottom: 200px;
+}
+.wats{
+  background-color: grey;
+  width: 40px;
+  height: 40px;
+  padding-top: 10px;
+}
